@@ -2,7 +2,7 @@
     "name": "nextcloud/notebook",
     "authors": [
         {
-            "name": "YOUR NAME HERE",
+            "name": "YOUR NAME HERE"
         }
     ],
     "require": {
